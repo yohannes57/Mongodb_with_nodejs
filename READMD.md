@@ -1,7 +1,6 @@
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+- [📖 CRUD on mongo](#about)
     - [Tech Stack](#Yohannes M)
 
 <!-- PROJECT DESCRIPTION -->
